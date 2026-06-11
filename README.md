@@ -13,7 +13,8 @@ A console-based Student Management System developed in C++ using Object-Oriented
  
 ✏️ Update Student Details  
  
-❌ Delete Student Record  
+❌ Delete Student Record
+
 
 ### 🔹 Advanced Features
 
@@ -26,6 +27,7 @@ A console-based Student Management System developed in C++ using Object-Oriented
  🏆 Topper List (Sorting System)
  
  📁 File Handling (Data Stored Permanently)  
+ 
 
  ## 🛠️ Technologies Used
 
@@ -60,6 +62,7 @@ A console-based Student Management System developed in C++ using Object-Oriented
    
 8. Exit
 
+
 ## 🎯 Learning Outcomes
 
 Object-Oriented Programming (Classes & Objects)
@@ -70,6 +73,7 @@ Problem Solving Skills
 
 Real-world Application Developmen
 
+
 ## 📈 Future Improvements
 
 🌐 GUI Version using Java Swing / Qt
@@ -79,6 +83,7 @@ Real-world Application Developmen
 ☁️ Cloud Storage Support
 
 👥 Multi-user Login System
+
 
 ## 👨‍💻 Developer Information
 

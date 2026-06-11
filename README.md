@@ -3,7 +3,9 @@ A console-based Student Management System developed in C++ using Object-Oriented
 
 
 🚀 Features
+
 🔹 Basic Features
+
 Add new student records
 
 View all student details
@@ -29,6 +31,7 @@ Sorting students by marks (Topper list) 🏆
 File handling for data storage 📁
 
 🛠️ Technologies Used
+
 C++ / Java
 
 OOP (Object Oriented Programming)
@@ -38,6 +41,7 @@ File Handling
 Data Structures (Arrays / Vectors)
 
 📊 Project Highlights
+
 Simple and user-friendly menu-driven system
 
 Efficient record management
@@ -47,7 +51,9 @@ Data persistence using file handling
 Real-world simulation of school/college management system
 
 📂 Menu System Example
+
 ===== Student Management System =====
+
 1. Add Student
    
 2. View Students
@@ -65,6 +71,7 @@ Real-world simulation of school/college management system
 8. Exit
 
 🎯 Learning Outcomes
+
 Object Oriented Programming concepts
 
 File handling in C++/Java
@@ -74,6 +81,7 @@ Problem solving and logic building
 Real-world application development
 
 👨‍💻 Author
+
 Name: Your Name
 
 Project: Student Management System
@@ -81,6 +89,7 @@ Project: Student Management System
 GitHub: (your profile link)
 
 ⭐ Future Improvements
+
 GUI-based system (using Java Swing / Python Tkinter)
 
 Database integration (MySQL)
